@@ -1,0 +1,67 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               log_psqm   R-squared:                       0.594
+Model:                            OLS   Adj. R-squared:                  0.594
+Method:                 Least Squares   F-statistic:                     169.5
+Date:                Mon, 05 Oct 2026   Prob (F-statistic):               0.00
+Time:                        19:04:37   Log-Likelihood:                -83053.
+No. Observations:              346882   AIC:                         1.662e+05
+Df Residuals:                  346838   BIC:                         1.667e+05
+Df Model:                          43                                         
+Covariance Type:              cluster                                         
+====================================================================================================================
+                                                       coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------------
+Intercept                                            9.2828      0.098     94.539      0.000       9.090       9.475
+C(area_grp)[T.Al Barsha South Fourth]               -0.0254      0.025     -1.020      0.308      -0.074       0.023
+C(area_grp)[T.Al Barshaa South Second]               0.0704      0.029      2.426      0.015       0.014       0.127
+C(area_grp)[T.Al Barshaa South Third]               -0.0073      0.026     -0.277      0.782      -0.059       0.044
+C(area_grp)[T.Al Hebiah First]                       0.0582      0.085      0.682      0.495      -0.109       0.226
+C(area_grp)[T.Al Hebiah Fourth]                     -0.0961      0.046     -2.090      0.037      -0.186      -0.006
+C(area_grp)[T.Al Jadaf]                              0.2086      0.051      4.107      0.000       0.109       0.308
+C(area_grp)[T.Al Khairan First]                      0.5430      0.027     19.953      0.000       0.490       0.596
+C(area_grp)[T.Al Merkadh]                            0.4041      0.028     14.522      0.000       0.350       0.459
+C(area_grp)[T.Al Thanyah Fifth]                      0.2524      0.062      4.070      0.000       0.131       0.374
+C(area_grp)[T.Al Warsan First]                      -0.4921      0.061     -8.011      0.000      -0.612      -0.372
+C(area_grp)[T.Al Yelayiss 2]                        -0.0680      0.035     -1.952      0.051      -0.136       0.000
+C(area_grp)[T.Al Yufrah 1]                          -0.1469      0.044     -3.321      0.001      -0.234      -0.060
+C(area_grp)[T.Bukadra]                               0.4506      0.028     15.961      0.000       0.395       0.506
+C(area_grp)[T.Burj Khalifa]                          0.7877      0.041     19.249      0.000       0.707       0.868
+C(area_grp)[T.Business Bay]                          0.5273      0.030     17.502      0.000       0.468       0.586
+C(area_grp)[T.Hadaeq Sheikh Mohammed Bin Rashid]     0.4626      0.032     14.404      0.000       0.400       0.526
+C(area_grp)[T.Jabal Ali First]                      -0.0191      0.054     -0.353      0.724      -0.125       0.087
+C(area_grp)[T.Madinat Al Mataar]                    -0.0472      0.033     -1.411      0.158      -0.113       0.018
+C(area_grp)[T.Madinat Dubai Almelaheyah]             0.5507      0.036     15.510      0.000       0.481       0.620
+C(area_grp)[T.Marsa Dubai]                           0.7027      0.084      8.341      0.000       0.538       0.868
+C(area_grp)[T.Me'Aisem First]                       -0.0681      0.044     -1.544      0.123      -0.155       0.018
+C(area_grp)[T.Other]                                 0.2144      0.032      6.635      0.000       0.151       0.278
+C(area_grp)[T.Palm Jumeirah]                         0.9161      0.074     12.385      0.000       0.771       1.061
+C(area_grp)[T.Wadi Al Safa 3]                        0.0016      0.045      0.035      0.972      -0.088       0.091
+C(area_grp)[T.Wadi Al Safa 5]                       -0.1131      0.036     -3.159      0.002      -0.183      -0.043
+C(property_sub_type)[T.Villa]                       -0.1375      0.049     -2.818      0.005      -0.233      -0.042
+C(reg_type)[T.Off-Plan Properties]                   0.3247      0.031     10.450      0.000       0.264       0.386
+C(year_c)[T.2020]                                    0.0023      0.027      0.088      0.930      -0.050       0.054
+C(year_c)[T.2021]                                    0.0912      0.027      3.442      0.001       0.039       0.143
+C(year_c)[T.2022]                                    0.2288      0.026      8.693      0.000       0.177       0.280
+C(year_c)[T.2023]                                    0.3763      0.027     13.897      0.000       0.323       0.429
+C(year_c)[T.2024]                                    0.4787      0.027     17.918      0.000       0.426       0.531
+C(year_c)[T.2025]                                    0.5928      0.027     21.919      0.000       0.540       0.646
+C(year_c)[T.2026]                                    0.6319      0.028     22.818      0.000       0.578       0.686
+C(rooms_grp)[T.2 B/R]                                0.0860      0.012      7.019      0.000       0.062       0.110
+C(rooms_grp)[T.3 B/R]                                0.2499      0.025     10.051      0.000       0.201       0.299
+C(rooms_grp)[T.4 B/R]                                0.2626      0.037      7.106      0.000       0.190       0.335
+C(rooms_grp)[T.5 B/R]                                0.3041      0.050      6.128      0.000       0.207       0.401
+C(rooms_grp)[T.6 B/R]                                0.8187      0.148      5.540      0.000       0.529       1.108
+C(rooms_grp)[T.Other]                                0.4701      0.151      3.112      0.002       0.174       0.766
+C(rooms_grp)[T.PENTHOUSE]                           -0.0952      0.111     -0.857      0.391      -0.313       0.122
+C(rooms_grp)[T.Studio]                              -0.0036      0.016     -0.217      0.828      -0.036       0.029
+log_area                                            -0.1122      0.023     -4.965      0.000      -0.157      -0.068
+==============================================================================
+Omnibus:                    18673.255   Durbin-Watson:                   2.002
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            75884.710
+Skew:                           0.041   Prob(JB):                         0.00
+Kurtosis:                       5.290   Cond. No.                         236.
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (CRV1)

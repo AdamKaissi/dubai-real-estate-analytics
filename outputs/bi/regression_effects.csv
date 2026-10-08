@@ -1,0 +1,35 @@
+group,label,pct_effect,ci_low_pct,ci_high_pct
+Area vs baseline area,Al Barsha South Fourth,-2.5,-7.2,2.4
+Area vs baseline area,Al Barshaa South Second,7.3,1.4,13.6
+Area vs baseline area,Al Barshaa South Third,-0.7,-5.7,4.5
+Area vs baseline area,Al Hebiah First,6.0,-10.3,25.3
+Area vs baseline area,Al Hebiah Fourth,-9.2,-17.0,-0.6
+Area vs baseline area,Al Jadaf,23.2,11.5,36.1
+Area vs baseline area,Al Khairan First,72.1,63.2,81.5
+Area vs baseline area,Al Merkadh,49.8,41.8,58.2
+Area vs baseline area,Al Thanyah Fifth,28.7,14.0,45.4
+Area vs baseline area,Al Warsan First,-38.9,-45.8,-31.0
+Area vs baseline area,Al Yelayiss 2,-6.6,-12.7,0.0
+Area vs baseline area,Al Yufrah 1,-13.7,-20.8,-5.8
+Area vs baseline area,Bukadra,56.9,48.5,65.8
+Area vs baseline area,Burj Khalifa,119.8,102.9,138.2
+Area vs baseline area,Business Bay,69.4,59.7,79.7
+Area vs baseline area,Hadaeq Sheikh Mohammed Bin Rashid,58.8,49.1,69.1
+Area vs baseline area,Jabal Ali First,-1.9,-11.8,9.1
+Area vs baseline area,Madinat Al Mataar,-4.6,-10.7,1.9
+Area vs baseline area,Madinat Dubai Almelaheyah,73.4,61.8,85.9
+Area vs baseline area,Marsa Dubai,101.9,71.2,138.2
+Area vs baseline area,Me'Aisem First,-6.6,-14.3,1.9
+Area vs baseline area,Palm Jumeirah,150.0,116.2,189.0
+Area vs baseline area,Wadi Al Safa 3,0.2,-8.4,9.5
+Area vs baseline area,Wadi Al Safa 5,-10.7,-16.7,-4.2
+Property type,Villa vs flat,-12.8,-20.8,-4.1
+Registration type,Off-plan vs existing,38.4,30.2,47.0
+Year vs 2019,2020,0.2,-4.8,5.6
+Year vs 2019,2021,9.6,4.0,15.4
+Year vs 2019,2022,25.7,19.4,32.4
+Year vs 2019,2023,45.7,38.2,53.6
+Year vs 2019,2024,61.4,53.2,70.1
+Year vs 2019,2025,80.9,71.6,90.8
+Year vs 2019,2026,88.1,78.2,98.6
+Unit size,Doubling unit size,-7.5,-10.3,-4.6

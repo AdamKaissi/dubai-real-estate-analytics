@@ -1,0 +1,10 @@
+step,rows_after,rows_removed
+raw rows loaded,898413,0
+drop unparseable dates,898413,0
+keep dates >= 2019-01-01,562199,336214
+keep sales transactions only,438172,124027
+"keep procedures ['Sell - Pre registration', 'Sell', 'Delayed Sell']",427025,11147
+"keep residential sub types ['Flat', 'Villa']",349482,77543
+drop missing/non-positive value or area,349482,0
+drop duplicate transaction_id,349482,0
+"drop extreme price/sqm outliers (|z|>4, by sub type)",348789,693

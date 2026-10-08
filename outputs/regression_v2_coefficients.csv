@@ -1,0 +1,45 @@
+,coef,pct_effect,ci_low_pct,ci_high_pct,p_value
+Intercept,9.283,1075033.986,886817.861,1303192.152,0.0
+C(area_grp)[T.Al Barsha South Fourth],-0.025,-2.51,-7.155,2.368,0.308
+C(area_grp)[T.Al Barshaa South Second],0.07,7.294,1.362,13.573,0.015
+C(area_grp)[T.Al Barshaa South Third],-0.007,-0.727,-5.718,4.528,0.782
+C(area_grp)[T.Al Hebiah First],0.058,5.997,-10.342,25.313,0.495
+C(area_grp)[T.Al Hebiah Fourth],-0.096,-9.159,-16.985,-0.595,0.037
+C(area_grp)[T.Al Jadaf],0.209,23.191,11.519,36.085,0.0
+C(area_grp)[T.Al Khairan First],0.543,72.116,63.176,81.546,0.0
+C(area_grp)[T.Al Merkadh],0.404,49.798,41.847,58.195,0.0
+C(area_grp)[T.Al Thanyah Fifth],0.252,28.714,13.983,45.35,0.0
+C(area_grp)[T.Al Warsan First],-0.492,-38.865,-45.799,-31.043,0.0
+C(area_grp)[T.Al Yelayiss 2],-0.068,-6.575,-12.74,0.026,0.051
+C(area_grp)[T.Al Yufrah 1],-0.147,-13.659,-20.828,-5.842,0.001
+C(area_grp)[T.Bukadra],0.451,56.919,48.472,65.845,0.0
+C(area_grp)[T.Burj Khalifa],0.788,119.832,102.889,138.19,0.0
+C(area_grp)[T.Business Bay],0.527,69.436,59.72,79.743,0.0
+C(area_grp)[T.Hadaeq Sheikh Mohammed Bin Rashid],0.463,58.815,49.127,69.133,0.0
+C(area_grp)[T.Jabal Ali First],-0.019,-1.89,-11.755,9.078,0.724
+C(area_grp)[T.Madinat Al Mataar],-0.047,-4.615,-10.674,1.856,0.158
+C(area_grp)[T.Madinat Dubai Almelaheyah],0.551,73.443,61.783,85.942,0.0
+C(area_grp)[T.Marsa Dubai],0.703,101.911,71.182,138.156,0.0
+C(area_grp)[T.Me'Aisem First],-0.068,-6.587,-14.33,1.855,0.123
+C(area_grp)[T.Other],0.214,23.909,16.306,32.01,0.0
+C(area_grp)[T.Palm Jumeirah],0.916,149.963,116.228,188.961,0.0
+C(area_grp)[T.Wadi Al Safa 3],0.002,0.159,-8.384,9.498,0.972
+C(area_grp)[T.Wadi Al Safa 5],-0.113,-10.69,-16.739,-4.201,0.002
+C(property_sub_type)[T.Villa],-0.138,-12.849,-20.799,-4.101,0.005
+C(reg_type)[T.Off-Plan Properties],0.325,38.359,30.184,47.046,0.0
+C(year_c)[T.2020],0.002,0.233,-4.845,5.582,0.93
+C(year_c)[T.2021],0.091,9.551,4.006,15.392,0.001
+C(year_c)[T.2022],0.229,25.705,19.386,32.358,0.0
+C(year_c)[T.2023],0.376,45.687,38.157,53.628,0.0
+C(year_c)[T.2024],0.479,61.393,53.16,70.069,0.0
+C(year_c)[T.2025],0.593,80.911,71.57,90.76,0.0
+C(year_c)[T.2026],0.632,88.124,78.185,98.617,0.0
+C(rooms_grp)[T.2 B/R],0.086,8.98,6.394,11.628,0.0
+C(rooms_grp)[T.3 B/R],0.25,28.387,22.281,34.797,0.0
+C(rooms_grp)[T.4 B/R],0.263,30.025,20.942,39.79,0.0
+C(rooms_grp)[T.5 B/R],0.304,35.536,22.975,49.38,0.0
+C(rooms_grp)[T.6 B/R],0.819,126.753,69.735,202.925,0.0
+C(rooms_grp)[T.Other],0.47,60.022,19.016,115.156,0.002
+C(rooms_grp)[T.PENTHOUSE],-0.095,-9.08,-26.86,13.021,0.391
+C(rooms_grp)[T.Studio],-0.004,-0.357,-3.526,2.916,0.828
+log_area,-0.112,-10.617,-14.491,-6.568,0.0

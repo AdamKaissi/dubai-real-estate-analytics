@@ -1,0 +1,45 @@
+,pct_effect_with_delayed,pct_effect_without_delayed
+Intercept,1075033.986,939193.392
+C(area_grp)[T.Al Barsha South Fourth],-2.51,-1.985
+C(area_grp)[T.Al Barshaa South Second],7.294,6.618
+C(area_grp)[T.Al Barshaa South Third],-0.727,-0.211
+C(area_grp)[T.Al Hebiah First],5.997,7.599
+C(area_grp)[T.Al Hebiah Fourth],-9.159,-8.498
+C(area_grp)[T.Al Jadaf],23.191,23.586
+C(area_grp)[T.Al Khairan First],72.116,69.894
+C(area_grp)[T.Al Merkadh],49.798,49.876
+C(area_grp)[T.Al Thanyah Fifth],28.714,31.211
+C(area_grp)[T.Al Warsan First],-38.865,-36.082
+C(area_grp)[T.Al Yelayiss 2],-6.575,-7.775
+C(area_grp)[T.Al Yufrah 1],-13.659,-13.907
+C(area_grp)[T.Bukadra],56.919,56.879
+C(area_grp)[T.Burj Khalifa],119.832,122.385
+C(area_grp)[T.Business Bay],69.436,69.682
+C(area_grp)[T.Hadaeq Sheikh Mohammed Bin Rashid],58.815,59.405
+C(area_grp)[T.Jabal Ali First],-1.89,-0.953
+C(area_grp)[T.Madinat Al Mataar],-4.615,-4.39
+C(area_grp)[T.Madinat Dubai Almelaheyah],73.443,73.184
+C(area_grp)[T.Marsa Dubai],101.911,104.749
+C(area_grp)[T.Me'Aisem First],-6.587,-9.607
+C(area_grp)[T.Other],23.909,24.397
+C(area_grp)[T.Palm Jumeirah],149.963,155.439
+C(area_grp)[T.Wadi Al Safa 3],0.159,0.027
+C(area_grp)[T.Wadi Al Safa 5],-10.69,-11.408
+C(property_sub_type)[T.Villa],-12.849,-12.242
+C(reg_type)[T.Off-Plan Properties],38.359,45.762
+C(year_c)[T.2020],0.233,-0.453
+C(year_c)[T.2021],9.551,7.457
+C(year_c)[T.2022],25.705,25.233
+C(year_c)[T.2023],45.687,45.771
+C(year_c)[T.2024],61.393,62.643
+C(year_c)[T.2025],80.911,82.748
+C(year_c)[T.2026],88.124,90.154
+C(rooms_grp)[T.2 B/R],8.98,7.712
+C(rooms_grp)[T.3 B/R],28.387,25.634
+C(rooms_grp)[T.4 B/R],30.025,25.146
+C(rooms_grp)[T.5 B/R],35.536,29.992
+C(rooms_grp)[T.6 B/R],126.753,117.879
+C(rooms_grp)[T.Other],60.022,60.163
+C(rooms_grp)[T.PENTHOUSE],-9.08,-7.492
+C(rooms_grp)[T.Studio],-0.357,1.037
+log_area,-10.617,-8.994
